@@ -37,7 +37,7 @@ $(document).ready(function () {
         { title: "Publisher", data: 0 },
         { title: "Discount or Waiver Amount", data: 4 },
         { title: "Campuses Covered", data: 5 },
-        { title: "Coverage Years", data: 6 },
+        { title: "Coverage Years [Eligibility Date]", data: 6 },
         { title: "Agreement Info", data: 7 }
     ];
 
